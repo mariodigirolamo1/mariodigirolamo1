@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📃 Mainly Android Boi and Kotlin enjoyer but I play with everything I come in contact with.<br>
+- 📃Mainly Android Boi and Kotlin enjoyer but I play with everything I come in contact with.<br>
   📘Currently re-descovering the pleasure of DS and Algos and yeah, "Cracking the coding interview" has been a nice companion for a few months now!
 - 📫 How to reach me:
   - Gmail: mariodigirolamowork@gmail.com
